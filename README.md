@@ -20,10 +20,6 @@
 <br/>
 
 
-- 🎓 I'm currently pursuing B.tech. in Computer Science & Engineering and expect to be graduated in 2021.
-- 🌱 I’m curious in learning more about technology.
-- 🤔 I’m looking for opportunities to furnish my both hard & soft skills.
-- 💬 Ask me about Web & Python development or any tech related stuff.
 - 📫 How to reach me: [Email:shivangiagrawal667@gmail.com](mailto:shivangiagrawal667@gmail.com)
 
 
@@ -53,6 +49,5 @@
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
 
 </div>
